@@ -17,7 +17,7 @@
 ### 담당 파트
 
 - 데이터 수집 및 전처리
-- [프로젝트 의도에 맞는 가설 및 분석 지표 설정]https://github.com/Namgyeongbeen/business_category_recommendation/blob/d6f67163b92a21c00a1515b4e8a5957f034bca72/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A0%90%ED%8F%AC%EB%B0%80%EB%8F%84.ipynb
+- [프로젝트 의도에 맞는 가설 및 분석 지표 설정](https://github.com/Namgyeongbeen/business_category_recommendation/blob/d6f67163b92a21c00a1515b4e8a5957f034bca72/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EC%A0%90%ED%8F%AC%EB%B0%80%EB%8F%84.ipynb)
 - [데이터 분석 및 시각화(Matplotlib, Seaborn)](https://colab.research.google.com/drive/1fznq6p0dL7aggZMnuiZbliepnuTib8WA?usp=sharing)
 - [딥러닝 모델링(LSTM)을 통한 매출 예측 및 가설 검정](https://colab.research.google.com/drive/1l43EVGF5JXTHAP-7lExEOLGhn8CXBh1G?usp=drive_link)
     
